@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloGit</string>
+    <string name="txt_julian">Julian Putra</string>
 </resources>
